@@ -1,0 +1,29 @@
+import static org.junit.Assert.assertTrue:
+
+import java.util.Scanner
+
+class intrest
+
+{
+
+public static void main(String[] args)
+
+{
+
+Scanner se new Scanner(System.in);
+
+float P-se.nextFloat(
+
+float Res nextFloat()
+
+float T-se.nextFloat():
+
+float SI (PTR)/100;
+
+System.out.println("Simple interest-*+ST);
+
+assertTrue(3600 SI);
+
+}
+
+}
